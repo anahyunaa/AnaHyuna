@@ -1,6 +1,6 @@
-# anahyunaa
+# Merta Bhuana's Profile
 
-👋 **Hi there, I'm AnaHyuna!**  
+👋 **Hi there, I'm Ana!**  
 A passionate third-year Computer Science student at Universitas Pertamina. I am deeply interested in software development, designing, and business management. My journey as a student has been filled with hands-on experiences, coding challenges, and numerous exciting projects. I have been working as a social media specialist at UIUXINDO.
 
 ---
