@@ -1,4 +1,4 @@
-# AnaHyuna
+# anahyunaa
 
 👋 **Hi there, I'm AnaHyuna!**  
 A passionate third-year Computer Science student at Universitas Pertamina. I am deeply interested in software development, artificial intelligence, and cloud computing technologies. My journey as a student has been filled with hands-on experiences, coding challenges, and numerous exciting projects.
